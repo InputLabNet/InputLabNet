@@ -1,9 +1,5 @@
 # InputLab
 
-**We make test data without privacy concerns that effectively finds bugs.**
-
-## Overview
-
 Modern software needs robust testing, but traditional test data comes with trade-offs.
 - Anonymized production data? Risky and hard to manage.
 - Manually crafted test cases? Expensive and time-consuming.
